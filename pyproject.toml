@@ -62,6 +62,9 @@ npm = ["jlpm"]
 source_dir = "src"
 build_dir = "ottr_force_save_labextension/labextension"
 
+[tool.jupyter-releaser]
+skip = ["build-npm"]
+
 [tool.jupyter-releaser.options]
 version_cmd = "hatch version"
 
