@@ -1,7 +1,8 @@
 # ottr_force_save_labextension
 
-[![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml)
-A JupyterLab extension for force-saving notebooks from ottr, the Otter-Grader R client.
+[![Build](https://github.com/chrispyles/ottr-force-save-labextension/actions/workflows/build.yml/badge.svg)](https://github.com/chrispyles/ottr-force-save-labextension/actions/workflows/build.yml)
+
+A JupyterLab extension for force-saving notebooks from [ottr](https://github.com/ucbds-infra/ottr), the [Otter-Grader](https://otter-grader.readthedocs.io) R client.
 
 ## Requirements
 

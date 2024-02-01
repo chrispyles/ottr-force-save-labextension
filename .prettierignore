@@ -4,3 +4,4 @@ node_modules
 **/package.json
 !/package.json
 ottr_force_save_labextension
+**/tsconfig.json
