@@ -55,7 +55,8 @@
         "watch:labextension": "jupyter labextension watch ."
     },
     "dependencies": {
-        "@jupyterlab/application": "^4.0.0"
+        "@jupyterlab/application": "^4.0.0",
+        "@jupyterlab/notebook": "^4.0.12"
     },
     "devDependencies": {
         "@jupyterlab/builder": "^4.0.0",
@@ -155,7 +156,7 @@
     },
     "prettier": {
         "singleQuote": true,
-        "trailingComma": "none",
+        "trailingComma": "all",
         "arrowParens": "avoid",
         "endOfLine": "auto",
         "overrides": [
@@ -165,7 +166,8 @@
                     "tabWidth": 4
                 }
             }
-        ]
+        ],
+        "printWidth": 100
     },
     "stylelint": {
         "extends": [
