@@ -7,7 +7,7 @@
         "jupyterlab",
         "jupyterlab-extension"
     ],
-    "homepage": "",
+    "homepage": "https://github.com/chrispyles/ottr-force-save-labextension",
     "bugs": {
         "url": "https://github.com/chrispyles/ottr-force-save-labextension/issues"
     },
